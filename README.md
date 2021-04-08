@@ -1,2 +1,2 @@
-# MXterm2
- MXterm 2 for mbed-os 6.9
+# MXterm
+New MXterm for mbed-os 6.9
